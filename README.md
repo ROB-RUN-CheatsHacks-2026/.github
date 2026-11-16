@@ -50,8 +50,3 @@ ROB RUN Hacks, ROB RUN hack, ROB RUN cheats, Roblox ROB RUN hacks, ROB RUN speed
 - **Type:** Software Concept
 - **Focus:** Movement, speed, customization, and gameplay features
 
-## ⚠️ Disclaimer
-
-This repository presents a conceptual overview of ROB RUN gaming utility features. Listed features are illustrative and do not confirm the existence of a working software release.
-
-Roblox and ROB RUN are trademarks or properties of their respective owners. This project is not affiliated with or endorsed by Roblox Corporation.
